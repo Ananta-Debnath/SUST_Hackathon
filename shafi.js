@@ -6,3 +6,6 @@ console.log(y)
 
 z = "shafi ekta shuor"
 console.log(z)
+
+a = "saleh valorant dalal"
+console.log(a)
