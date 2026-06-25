@@ -3,3 +3,6 @@ console.log(x)
 
 y = "saleh ekta kutta"
 console.log(y)
+
+z = "shafi ekta shuor"
+console.log(z)
