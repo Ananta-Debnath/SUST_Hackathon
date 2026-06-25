@@ -12,3 +12,6 @@ console.log(a)
 
 b = "shafi ekta kutta"
 console.log(b)
+
+c = "suleh ekta bodai"
+console.log(c)
