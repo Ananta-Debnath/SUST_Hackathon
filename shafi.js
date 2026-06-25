@@ -17,3 +17,4 @@ c = "suleh ekta bodai"
 console.log(c)
 d = "zia mage"
 console.log(d)
+//jjjjj
