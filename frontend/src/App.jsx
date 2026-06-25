@@ -19,7 +19,7 @@ import {
 // ============================================================================
 // Configuration — swap this to your deployed API.
 // ============================================================================
-const API_BASE = "https://your-deployed-api.onrender.com";
+const API_BASE = "http://localhost:3000";
 
 // ============================================================================
 // Design tokens (kept in JS so the file is self-contained; Tailwind still
